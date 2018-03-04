@@ -46,6 +46,7 @@ This project is licensed under the MIT license - see the [LICENSE](LICENSE.md) f
   - [W3C Specification](#w3c-specification)
   - [Guides](#guides)
   - [Articles](#articles)
+  - [Books](#books)
   - [Web Tools](#web-tools)
   - [Other Resources](#other-resources)
   - [Presentations](#presentations)
@@ -74,6 +75,10 @@ This project is licensed under the MIT license - see the [LICENSE](LICENSE.md) f
 *Articles about Web Accessibility*
 
 * [Getting Started with Web Accessibility](http://www.w3.org/WAI/gettingstarted/Overview.html)
+
+## Books
+
+* [Building Accessible Websites](http://joeclark.org/book/) - A new book on Web Accessibility by [Joe Clark](http://joeclark.org/)
 
 ## Web Tools
 
